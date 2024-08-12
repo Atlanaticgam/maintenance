@@ -1,0 +1,118 @@
+﻿
+@media only screen and (max-width: 600px)
+{
+.content-wraper {
+    /*margin-top:30px;*/
+}
+
+}
+
+/*.atlantic-text-primary {*/
+/*    color:#00cd5a !important;*/
+/*}*/
+
+/*.title span{color:#00cd5a !important; }*/
+/*.checkmark__group__text span {*/
+/*    color: #00cd5a !important;*/
+/*}*/
+
+
+/*.group-tab ul li a.active {*/
+/*    color: #00cd5a !important;*/
+/*}*/
+
+/*.header-top .menu-list a:hover {*/
+/*     color: #00cd5a !important*/
+/*}*/
+/*.header-top .button:hover {*/
+/* color: #00cd5a !important*/
+/*}*/
+/*#landing-page-5{*/
+/*    background: white !important;*/
+/*}*/
+
+/*.title7 {*/
+/*    text-transform: uppercase;*/
+/*    font-size: 3rem;*/
+/*    text-align: center;*/
+/*    color: white;*/
+/*    margin-top: -35px;*/
+/*    */
+/*    font-weight: bold;*/
+/*    margin-bottom: 5rem;*/
+/*}*/
+/*#headers{*/
+/*      background:transparent !important;*/
+
+/*}*/
+/*#bussiniss-model{*/
+/*    padding: 7rem 0 7rem !important;*/
+/*     background: #0b5624 !important;*/
+/*}*/
+/*#block-7{*/
+/*   background: #0b5624 !important;*/
+/*}*/
+/*.footer {*/
+/*      background: #0b5624;*/
+/*}*/
+/*.checkmark__group__icon {*/
+/*  */
+/*    background-color: #00cd5a !important;*/
+/*}*/
+
+/*body {*/
+/*    !*background-color: #053118 !important;*!*/
+
+/*    background: rgb(2,0,36) !important;*/
+/*background: linear-gradient(162deg, rgba(2,0,36,1) 0%, rgba(7,184,84,1) 52%, rgba(0,205,90,1) 82%) !important;*/
+/*}*/
+
+/*.contact-item {*/
+/*  */
+/*    background: #1e9e48 !important;*/
+/*    */
+/*}*/
+
+/*.contact-item-icon {*/
+/*   */
+/*    background: #97aa9d !important;*/
+/*   */
+/*}*/
+
+
+/*#block-7 .container {*/
+/*    border-top: none !important;*/
+/*}*/
+/*#backofficeBtn {*/
+/*    background: #0ecd00 !important;*/
+/*    color:white !important;*/
+/*  */
+/*}*/
+/*#backofficeBtn .span{*/
+/*     color:white !important;*/
+/*}*/
+/*#landing-page-1{*/
+/*}*/
+
+.circular--portrait { position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; } 
+.circular--portrait img {margin-left: 5px; margin-right: 5px; width: 15px; height: auto; }
+
+.techpartner{
+    filter: grayscale(100%);
+}
+.techpartner:hover {
+    filter: grayscale(0);
+}
+
+ .header-top .button {
+ 
+   border-radius: 10px;
+    padding: 10px 10px !important;
+} 
+.header-top .button:hover {
+ 
+    opacity: 1;
+}
+a#backofficeBtn {
+    margin-top: -3px;
+}
